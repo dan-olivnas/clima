@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Clima Brasil</title>
+    <link rel="stylesheet" href="assets/css/styles.css" />
+    <link rel="icon" type="image/svg+xml" href="assets/img/icons/cloud-white.svg" />
+  </head>
+  <body>
+    <main class="container">
+      <section class="card">
+        <h1 class="title">Clima agora</h1>
+        <form id="city-form" class="form">
+          <div class="field">
+            <label for="city-input" class="label">Cidade</label>
+            <input id="city-input" class="input" name="city" type="text" placeholder="Ex.: São Paulo" required />
+          </div>
+          <button class="button" type="submit">Buscar</button>
+        </form>
+        <div id="output" class="output" aria-live="polite">
+          <div class="weather-placeholder">Pesquise uma cidade para ver o clima</div>
+        </div>
+      </section>
+    </main>
+    <script type="module" src="./src/app.js"></script>
+  </body>
+</html>
