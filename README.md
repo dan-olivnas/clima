@@ -10,6 +10,10 @@ O **Clima** é uma aplicação simples que exibe as condições meteorológicas 
 O projeto foi criado com foco no aprendizado de **requisições HTTP**, **manipulação do DOM** e **integração com APIs externas**.
 
 ---
+## 📸 Demonstração
+
+<img width="572" height="771" alt="{CC95B29B-2AA0-4817-BC2E-36DDF3C91B98}" src="https://github.com/user-attachments/assets/d7a8a5c4-d4d8-487d-a3ff-af926c83a8f3" />
+
 
 ## 🧱 Estrutura do Projeto
 
