@@ -1,6 +1,6 @@
 # 🌦️ Clima
 
-> Projeto desenvolvido como exercício prático utilizando **HTML**, **CSS** e **JavaScript**, com o objetivo de praticar consumo de API e exibição dinâmica de informações sobre o clima, feito por IA, no intuito de treinar.
+> Projeto desenvolvido como exercício prático com IA, utilizando **HTML**, **CSS** e **JavaScript**, com o objetivo de praticar consumo de API e exibição dinâmica de informações sobre o clima.
 
 ---
 
